@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <suite name="Test Suite"> 
+<test name="Test Cases">
+<parameter name="Name" value="selvi"></parameter>
+ <classes>
+ <class name="testng.Paramterzation_Ex"></class>
+</classes>
+</test>
+</suite>

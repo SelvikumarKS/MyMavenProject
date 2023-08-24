@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href=""?>
+ <suite name="Test Suite"> 
+<test name="Test Cases">
+ <classes>
+<class name="testng.Dependancies"></class>
+<class name="testng.Skip_Testcase"></class>
+<class name="testng.Testcase"></class>
+ <class name="testng.Parallel_Testing"></class>
+</classes>
+</test>
+</suite>
+ 
+
+
+
+ 
+ 

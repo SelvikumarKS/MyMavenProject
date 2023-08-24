@@ -1,0 +1,42 @@
+<!-- <suite name="Test Suite"> 
+<test name="Test Cases">
+ <classes>
+<class name="testng.Dependancies"></class>
+<class name="testng.Skip_Testcase"></class>
+<class name="testng.Testcase"></class>
+ <class name="testng.Parallel_Testing"></class>
+</classes>
+</test>
+</suite>
+ -->
+ <!-- <suite name="Test Suite"> 
+<test name="Test Cases">
+<parameter name="Name" value="selvi"></parameter>
+ <classes>
+ <class name="testng.Paramterization_Ex"></class>
+</classes>
+</test>
+</suite>
+  -->
+  
+ 
+
+ <suite name="Test Suite"> 
+<test name="Test Cases">
+ <groups>
+<run>
+ <include name="Apple"></include>
+ <include name="Iphone"></include>
+ 
+ </run>
+</groups>
+
+ <classes>
+ <class name="testng.Group_Testcase"></class>
+</classes>
+</test>
+</suite>
+ 
+ 
+  
+  
